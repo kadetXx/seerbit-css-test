@@ -114,6 +114,9 @@ a {
   margin: 0 0.1rem;
 }
 
+
+/* header styles */ 
+
 header {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -193,6 +196,9 @@ header .icons ul li:last-child span {
   border-radius: 100%;
   font-size: 0.6rem;
 }
+
+
+/* main body styles */ 
 
 main {
   padding: 0 5% 3rem;
@@ -327,6 +333,9 @@ footer {
   }
 }
 
+
+/* footer styles */ 
+
 footer .copyright-text {
   font-weight: 900;
   font-size: 1.1em;
@@ -387,6 +396,9 @@ footer nav ul li {
     margin: 0 0.5rem 0 0;
   }
 }
+
+
+/* animations */ 
 
 .slide-up-1 {
   -webkit-animation: slideUp 0.5s linear 0s 1 backwards;
