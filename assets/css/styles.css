@@ -178,6 +178,11 @@ header .icons ul li button {
   all: unset;
   cursor: pointer;
   position: relative;
+  border-radius: 100%;
+}
+
+header .icons ul li button img {
+  filter: drop-shadow(0 0 6px #83a2ff);
 }
 
 header .icons ul li:last-child span {
