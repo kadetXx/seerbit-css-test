@@ -37,6 +37,14 @@
   vertical-align: baseline;
 }
 
+body {
+  overflow: hidden;
+}
+
+body.overflow {
+  overflow: auto;
+}
+
 img {
   max-width: 100%;
 }
