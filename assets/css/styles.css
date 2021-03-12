@@ -163,7 +163,13 @@ header .logo {
   -webkit-box-ordinal-group: 3;
   -ms-flex-order: 2;
   order: 2;
-  width: 100px;
+  width: 110px;
+}
+
+@media screen and (min-width: 769px) {
+  header .logo {
+    width: 150px;
+  }
 }
 
 header .icons {
